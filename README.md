@@ -41,5 +41,7 @@ venv\Scripts\activate  # On MacOS use `source venv/bin/activate`
 python manage.py runserver
 ```
 
-
+```bash
 Visit http://127.0.0.1:8000 in your browser to access the app.
+Port number varies according to your system.
+```
