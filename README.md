@@ -35,11 +35,13 @@ python -m venv .venv
 venv\Scripts\activate  # On MacOS use `source venv/bin/activate`
 ```
 
-###Start the Development Server
+### Start the Development Server
 
 ```bash
 python manage.py runserver
 ```
+
+### Run
 
 ```bash
 Visit http://127.0.0.1:8000 in your browser to access the app.
