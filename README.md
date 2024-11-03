@@ -26,17 +26,20 @@ A simple yet powerful password generator built with Django. This application all
 ```bash
 git clone https://github.com/nehaaaak/passwordGen.git
 cd passwordGen
+```
 
 ### Create a Virtual Environment
 
 ```bash
 python -m venv .venv
 venv\Scripts\activate  # On MacOS use `source venv/bin/activate`
+```
 
 ###Start the Development Server
 
 ```bash
 python manage.py runserver
+```
 
 
 Visit http://127.0.0.1:8000 in your browser to access the app.
